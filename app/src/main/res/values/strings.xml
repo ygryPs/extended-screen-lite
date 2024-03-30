@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Extended Screen Lite</string>
+    <string name="scroller_service_label">Extended Screen Lite</string>
+    <string name="accessibility_service_description">Scroll any view automatically by physically moving your device.</string>
 </resources>
